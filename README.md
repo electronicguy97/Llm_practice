@@ -17,3 +17,6 @@
   
 #### 2.fullfinetuning1_base
 - 양자화 진행
+
+#### 3.fullfinetuning1_instruct
+- LoRA 사용
